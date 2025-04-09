@@ -1,4 +1,4 @@
-package me.xbackpack.skyblockplus.mixin.client;
+package me.xbackpack.skyblockplus.mixin;
 
 import net.minecraft.client.Minecraft;
 import org.spongepowered.asm.mixin.Mixin;
